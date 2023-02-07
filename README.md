@@ -1,6 +1,6 @@
 Langkah - langkah simulasi :
 1.	Clone repository
-2.	Bikin DB sesuai nama di .env 3 
+2.	Bikin DB sesuai nama di .env
 3.  Jalanin command di root directory ' composer install'
 4.  Jalanin command di root directory 'php artisan key:generate'
 5.	Jalanin command di root directory 'php artisan migrate:fresh --seed'
